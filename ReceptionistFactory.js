@@ -9,7 +9,8 @@ class ReceptionistFactory {
         employeeType: component['employeeType'],
         alamat:component['alamat'],
         noHP:component['noHP'],
-        skill: component['skill']
+        skill: component['skill'],
+        password:component['password']
       })
     }
   }

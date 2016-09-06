@@ -9,7 +9,8 @@ class DoctorFactory {
           employeeType: component.employeeType,
           alamat: component.alamat,
           noHP: component.noHP,
-          specialist: component.specialist
+          specialist: component.specialist,
+          password: component.password
       })
     }
   }
